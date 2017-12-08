@@ -11,7 +11,7 @@ import javax.ws.rs.core.MediaType;
  *
  * @author Rob Benton
  */
-@Path("/Simple")
+@Path("/")
 public class SimpleResource
 {
 

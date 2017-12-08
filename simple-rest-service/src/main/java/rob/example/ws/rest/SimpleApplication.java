@@ -9,7 +9,7 @@ import org.glassfish.jersey.server.ResourceConfig;
  *
  * @author Rob Benton
  */
-@ApplicationPath("/")
+@ApplicationPath("/Simple")
 public class SimpleApplication extends ResourceConfig
 {
     public SimpleApplication()
