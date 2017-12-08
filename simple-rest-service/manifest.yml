@@ -1,0 +1,8 @@
+---
+applications:
+ - name: bradleystart
+   random-route: true
+   path: target/simple-rest-service-1.0-SNAPSHOT.war
+   memory: 256M
+   instances: 1
+   buildpack: java_buildpack
